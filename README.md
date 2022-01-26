@@ -17,3 +17,5 @@ Als je de code wil runnen kun je dit doen door het volgende in de terminal in te
 Als je wisselt van bestand moet je nodemon eerst stoppen (ctrl + c voor zowel Windows als Mac) en dan opnieuw starten met de nieuwe bestandsnaam, zoals bijvoorbeeld:
 
 `nodemon objects.js`
+
+`https://github.com/hogeschoolnovi/frontend-javascript-arrays-and-objects`
